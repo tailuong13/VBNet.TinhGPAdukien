@@ -1,0 +1,12 @@
+C:\Tailuong\Projects\VB.Net\TinhGPA\bin\Debug\TinhGPA.exe.config
+C:\Tailuong\Projects\VB.Net\TinhGPA\bin\Debug\TinhGPA.exe
+C:\Tailuong\Projects\VB.Net\TinhGPA\bin\Debug\TinhGPA.pdb
+C:\Tailuong\Projects\VB.Net\TinhGPA\bin\Debug\TinhGPA.xml
+C:\Tailuong\Projects\VB.Net\TinhGPA\obj\Debug\TinhGPA.vbproj.AssemblyReference.cache
+C:\Tailuong\Projects\VB.Net\TinhGPA\obj\Debug\TinhGPA.Form1.resources
+C:\Tailuong\Projects\VB.Net\TinhGPA\obj\Debug\TinhGPA.Resources.resources
+C:\Tailuong\Projects\VB.Net\TinhGPA\obj\Debug\TinhGPA.vbproj.GenerateResource.cache
+C:\Tailuong\Projects\VB.Net\TinhGPA\obj\Debug\TinhGPA.vbproj.CoreCompileInputs.cache
+C:\Tailuong\Projects\VB.Net\TinhGPA\obj\Debug\TinhGPA.exe
+C:\Tailuong\Projects\VB.Net\TinhGPA\obj\Debug\TinhGPA.xml
+C:\Tailuong\Projects\VB.Net\TinhGPA\obj\Debug\TinhGPA.pdb
